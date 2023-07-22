@@ -1,5 +1,5 @@
 # Bash Shell Scripting Project: The Matrix
-Our instructor gave us a challenge to create anything we wanted using the power of Bash Shell Scripting. Here are the step-by-step instructions on how to deploy this awesome game. Feel free to copy the script from the "matrix.sh" file above and try it out for yourself in your Vim/Nano text editor.
+Our instructor at Per Scholas gave us a challenge to create anything we wanted using the power of Bash Shell Scripting. Here are the step-by-step instructions on how to deploy this awesome game. Feel free to copy the script from the "matrix.sh" file above and try it out for yourself in your Vim/Nano text editor.
 
 <a href="https://docs.google.com/presentation/d/1g3Gan7oUB3WltLICa4VaT7QZt4sqFs4XnMovN9P2ino/edit?usp=sharing">Click Here</a> to access our full Google Slide presentation.
 ## Instructions:
